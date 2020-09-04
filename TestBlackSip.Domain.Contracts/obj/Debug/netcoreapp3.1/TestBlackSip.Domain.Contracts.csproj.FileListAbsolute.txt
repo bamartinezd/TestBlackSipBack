@@ -1,0 +1,12 @@
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Contracts\bin\Debug\netcoreapp3.1\TestBlackSip.Domain.Contracts.deps.json
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Contracts\bin\Debug\netcoreapp3.1\TestBlackSip.Domain.Contracts.dll
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Contracts\bin\Debug\netcoreapp3.1\TestBlackSip.Domain.Contracts.pdb
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Contracts\bin\Debug\netcoreapp3.1\TestBlackSip.Domain.Entities.dll
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Contracts\bin\Debug\netcoreapp3.1\TestBlackSip.Domain.Entities.pdb
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Contracts\obj\Debug\netcoreapp3.1\TestBlackSip.Domain.Contracts.csprojAssemblyReference.cache
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Contracts\obj\Debug\netcoreapp3.1\TestBlackSip.Domain.Contracts.AssemblyInfoInputs.cache
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Contracts\obj\Debug\netcoreapp3.1\TestBlackSip.Domain.Contracts.AssemblyInfo.cs
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Contracts\obj\Debug\netcoreapp3.1\TestBlackSip.Domain.Contracts.csproj.CoreCompileInputs.cache
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Contracts\obj\Debug\netcoreapp3.1\TestBlackSip.Domain.Contracts.csproj.CopyComplete
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Contracts\obj\Debug\netcoreapp3.1\TestBlackSip.Domain.Contracts.dll
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Contracts\obj\Debug\netcoreapp3.1\TestBlackSip.Domain.Contracts.pdb

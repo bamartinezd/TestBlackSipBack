@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="MenuItemDTO.cs~RF2b71adb8.TMP" />
+    <None Remove="MenuJerarquiaDTO.cs~RF2b0e7aa3.TMP" />
+    <None Remove="MenuJerarquiaDTO.cs~RF2b27d7cd.TMP" />
+  </ItemGroup>
+
+</Project>

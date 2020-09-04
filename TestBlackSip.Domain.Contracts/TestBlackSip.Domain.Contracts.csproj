@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="IGenericCUDRepository.cs~RF29d9203d.TMP" />
+    <None Remove="IGenericRepository.cs~RF29db311c.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestBlackSip.Domain.Entities\TestBlackSip.Domain.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

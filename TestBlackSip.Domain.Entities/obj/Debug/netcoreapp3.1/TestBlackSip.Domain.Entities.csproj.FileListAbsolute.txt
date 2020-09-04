@@ -1,0 +1,9 @@
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Entities\bin\Debug\netcoreapp3.1\TestBlackSip.Domain.Entities.deps.json
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Entities\bin\Debug\netcoreapp3.1\TestBlackSip.Domain.Entities.dll
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Entities\bin\Debug\netcoreapp3.1\TestBlackSip.Domain.Entities.pdb
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Entities\obj\Debug\netcoreapp3.1\TestBlackSip.Domain.Entities.AssemblyInfoInputs.cache
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Entities\obj\Debug\netcoreapp3.1\TestBlackSip.Domain.Entities.AssemblyInfo.cs
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Entities\obj\Debug\netcoreapp3.1\TestBlackSip.Domain.Entities.csproj.CoreCompileInputs.cache
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Entities\obj\Debug\netcoreapp3.1\TestBlackSip.Domain.Entities.dll
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Entities\obj\Debug\netcoreapp3.1\TestBlackSip.Domain.Entities.pdb
+E:\source\repos\TestBlackSipBack\TestBlackSip.Domain.Entities\obj\Debug\netcoreapp3.1\TestBlackSip.Domain.Entities.csprojAssemblyReference.cache

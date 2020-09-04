@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Repositories\MenuItemRepository.cs~RF2b1f94a1.TMP" />
+    <None Remove="Repositories\MenuItemRepository.cs~RF2b560b22.TMP" />
+    <None Remove="Repositories\RegistroRepository.cs~RF29c5e1aa.TMP" />
+    <None Remove="Repositories\RegistroRepository.cs~RF29fb179d.TMP" />
+    <None Remove="Repositories\RegistroRepository.cs~RF2a2821b4.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestBlackSip.Domain.Contracts\TestBlackSip.Domain.Contracts.csproj" />
+    <ProjectReference Include="..\TestBlackSip.Domain.Entities\TestBlackSip.Domain.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

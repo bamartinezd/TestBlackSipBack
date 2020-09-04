@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0.Design", "0.Design", "{58BB42A0-CF22-4156-A256-488476819883}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Services", "1.Services", "{0FDD434F-3878-4D21-90DE-D82FA24549A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Domain", "2.Domain", "{AC551BBF-EE5F-4C90-9AA5-21701A40DCEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Data", "3.Data", "{9D193254-7CA3-488C-8159-05A39682FCE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Cross", "4.Cross", "{2A1C6468-3BAA-417B-8B2A-FB8D88E57664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBlackSipBack.Data.DataAccess", "TestBlackSipBack.Data.DataAccess\TestBlackSipBack.Data.DataAccess.csproj", "{F4A9FBC9-EE19-45E0-ACAA-3720F47D0169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBlackSip.Domain.Entities", "TestBlackSip.Domain.Entities\TestBlackSip.Domain.Entities.csproj", "{A1C1C152-181B-4C8C-9143-D761EFAA37D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBlackSip.Domain.Contracts", "TestBlackSip.Domain.Contracts\TestBlackSip.Domain.Contracts.csproj", "{4B1D242C-3F2A-4503-9488-3FC80DE04E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBlackSipBack.Services.Dto", "TestBlackSipBack.Services.Dto\TestBlackSipBack.Services.Dto.csproj", "{1B174161-AD1A-4B78-A38C-79C83540E8B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBlackSipBack.Services.Api", "TestBlackSipBack.Services.Api\TestBlackSipBack.Services.Api.csproj", "{220CCD4D-4DB4-4828-89C5-65A8210F3B02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{D179BD8C-D673-4896-A6C5-F6931BA075CA}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\aleja\Desktop\BlackSip.sql = C:\Users\aleja\Desktop\BlackSip.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4A9FBC9-EE19-45E0-ACAA-3720F47D0169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A9FBC9-EE19-45E0-ACAA-3720F47D0169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A9FBC9-EE19-45E0-ACAA-3720F47D0169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A9FBC9-EE19-45E0-ACAA-3720F47D0169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C1C152-181B-4C8C-9143-D761EFAA37D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C1C152-181B-4C8C-9143-D761EFAA37D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C1C152-181B-4C8C-9143-D761EFAA37D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C1C152-181B-4C8C-9143-D761EFAA37D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B1D242C-3F2A-4503-9488-3FC80DE04E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B1D242C-3F2A-4503-9488-3FC80DE04E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B1D242C-3F2A-4503-9488-3FC80DE04E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B1D242C-3F2A-4503-9488-3FC80DE04E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B174161-AD1A-4B78-A38C-79C83540E8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B174161-AD1A-4B78-A38C-79C83540E8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B174161-AD1A-4B78-A38C-79C83540E8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B174161-AD1A-4B78-A38C-79C83540E8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220CCD4D-4DB4-4828-89C5-65A8210F3B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220CCD4D-4DB4-4828-89C5-65A8210F3B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220CCD4D-4DB4-4828-89C5-65A8210F3B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220CCD4D-4DB4-4828-89C5-65A8210F3B02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F4A9FBC9-EE19-45E0-ACAA-3720F47D0169} = {9D193254-7CA3-488C-8159-05A39682FCE1}
+		{A1C1C152-181B-4C8C-9143-D761EFAA37D3} = {AC551BBF-EE5F-4C90-9AA5-21701A40DCEE}
+		{4B1D242C-3F2A-4503-9488-3FC80DE04E39} = {AC551BBF-EE5F-4C90-9AA5-21701A40DCEE}
+		{1B174161-AD1A-4B78-A38C-79C83540E8B2} = {0FDD434F-3878-4D21-90DE-D82FA24549A5}
+		{220CCD4D-4DB4-4828-89C5-65A8210F3B02} = {0FDD434F-3878-4D21-90DE-D82FA24549A5}
+		{D179BD8C-D673-4896-A6C5-F6931BA075CA} = {58BB42A0-CF22-4156-A256-488476819883}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F5A0A62-6688-4BF7-B16A-2B1152670958}
+	EndGlobalSection
+EndGlobal

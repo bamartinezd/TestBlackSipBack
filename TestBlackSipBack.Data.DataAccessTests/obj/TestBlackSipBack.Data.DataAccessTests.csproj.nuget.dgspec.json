@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\source\\repos\\TestBlackSipBack\\TestBlackSipBack.Data.DataAccessTests\\TestBlackSipBack.Data.DataAccessTests.csproj": {}
+  },
+  "projects": {
+    "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Contracts\\TestBlackSip.Domain.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Contracts\\TestBlackSip.Domain.Contracts.csproj",
+        "projectName": "TestBlackSip.Domain.Contracts",
+        "projectPath": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Contracts\\TestBlackSip.Domain.Contracts.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Entities\\TestBlackSip.Domain.Entities.csproj": {
+                "projectPath": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Entities\\TestBlackSip.Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Entities\\TestBlackSip.Domain.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Entities\\TestBlackSip.Domain.Entities.csproj",
+        "projectName": "TestBlackSip.Domain.Entities",
+        "projectPath": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Entities\\TestBlackSip.Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\source\\repos\\TestBlackSipBack\\TestBlackSipBack.Data.DataAccessTests\\TestBlackSipBack.Data.DataAccessTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSipBack.Data.DataAccessTests\\TestBlackSipBack.Data.DataAccessTests.csproj",
+        "projectName": "TestBlackSipBack.Data.DataAccessTests",
+        "projectPath": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSipBack.Data.DataAccessTests\\TestBlackSipBack.Data.DataAccessTests.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSipBack.Data.DataAccessTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\source\\repos\\TestBlackSipBack\\TestBlackSipBack.Data.DataAccess\\TestBlackSipBack.Data.DataAccess.csproj": {
+                "projectPath": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSipBack.Data.DataAccess\\TestBlackSipBack.Data.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\source\\repos\\TestBlackSipBack\\TestBlackSipBack.Data.DataAccess\\TestBlackSipBack.Data.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSipBack.Data.DataAccess\\TestBlackSipBack.Data.DataAccess.csproj",
+        "projectName": "TestBlackSipBack.Data.DataAccess",
+        "projectPath": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSipBack.Data.DataAccess\\TestBlackSipBack.Data.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSipBack.Data.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Contracts\\TestBlackSip.Domain.Contracts.csproj": {
+                "projectPath": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Contracts\\TestBlackSip.Domain.Contracts.csproj"
+              },
+              "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Entities\\TestBlackSip.Domain.Entities.csproj": {
+                "projectPath": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Entities\\TestBlackSip.Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
