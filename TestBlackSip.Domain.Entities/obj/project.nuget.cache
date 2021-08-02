@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "234id9wW1n0Oh/UZMdx+Wl0viduTza+yuU3Tkk3FjnI8ybUvzG21jVxh8S7aU7dZu570qKYPMLDCgVFA/nZqSA==",
+  "dgSpecHash": "11qMHWChjd+MhSZ/5fHAI0C403nAqinfXS+5CnnknQ5VR0hc3uzi4TnyoBC51gYw0sDLFdP9+GZTYsrHDkmHlQ==",
   "success": true,
-  "projectFilePath": "E:\\source\\repos\\TestBlackSipBack\\TestBlackSip.Domain.Entities\\TestBlackSip.Domain.Entities.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/bamartinezd/source/repos/TestBlackSipBack/TestBlackSip.Domain.Entities/TestBlackSip.Domain.Entities.csproj",
+  "expectedPackageFiles": [
+    "/home/bamartinezd/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/bamartinezd/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
